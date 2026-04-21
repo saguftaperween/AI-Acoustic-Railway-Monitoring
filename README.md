@@ -41,23 +41,30 @@ The system detects rail defects such as cracks, fractures, and wear by analyzing
 
 ## 📸 App Screenshots
 
-### 🔐 Login Screen
+<div align="center">
 
-![Login](./login.jpeg)
+<table>
+<tr>
+<td align="center"><b>🔐 Login Screen</b></td>
+<td align="center"><b>🏠 Main Screen</b></td>
+</tr>
+<tr>
+<td><img src="./login.jpeg" width="300"/></td>
+<td><img src="./mainScreen.jpeg" width="300"/></td>
+</tr>
 
-### 🏠 Main Screen
+<tr>
+<td align="center"><b>📊 Sensor Graph</b></td>
+<td align="center"><b>🗺️ Station Map</b></td>
+</tr>
+<tr>
+<td><img src="./station_graph.jpeg" width="300"/></td>
+<td><img src="./station_map.jpeg" width="300"/></td>
+</tr>
+</table>
 
-![Main Screen](./mainScreen.jpeg)
+</div>
 
-### 📊 Sensor Graph View
-
-![Graph](./station_graph.jpeg)
-
-### 🗺️ Station Map View
-
-![Map](./station_map.jpeg)
-
----
 
 ## 📊 Impact
 
